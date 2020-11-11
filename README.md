@@ -1,2 +1,2 @@
 # dsbmars
-Data Science for small businesses
+Data Science for Small Businesses
