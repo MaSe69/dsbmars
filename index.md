@@ -1,6 +1,6 @@
 ---
 layout: 01_landing
-title: Dr. Marcus Semling
+title: DSB
 permalink: /index
 ---
 
