@@ -21,6 +21,7 @@ Get here to the detals of [Pandas](pandas).
 
 ## Seaborn
 
+For visualization
 
 
 ## Models
