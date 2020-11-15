@@ -1,5 +1,5 @@
 ---
-layout: 02_landing
+layout: 01_landing
 title: DSB
 permalink: /index
 ---
@@ -8,7 +8,7 @@ permalink: /index
 
 Welcome to my Data Science for Business (DSB) web site.
 
-On my overview page, I ma providing an introduction to this topic and motivate my passion on using [Data Science for Business]()
+Find an introduction to this topic and to my passion on [Data Science for Business]()
 
 I also make the point that at eventually a skill set must be mastered to actually **do** data science.
 
@@ -20,6 +20,8 @@ Get here to the detals of [Pandas](pandas).
 
 
 ## Seaborn
+
+
 
 ## Models
 
