@@ -1,6 +1,15 @@
 ---
-layout: public
-title: Data Science
+layout: 01_landing
+title: Dr. Marcus Semling
 permalink: /index
-tagline: Tagline
 ---
+
+# Data Science
+
+
+
+
+
+
+
+
