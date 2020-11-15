@@ -20,8 +20,9 @@
 
 title: Data Science 
 email: Dr.Marcus.Semling@gmail.com
+
 description: >- # this means to ignore newlines until "baseurl:"
-# baseurl: "" # the subpath of your site, e.g. /blog
+  Data Science For Business focuses on technical skills needed.
 baseurl: "/dsbmars" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
