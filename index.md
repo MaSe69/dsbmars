@@ -1,5 +1,5 @@
 ---
-layout: 01_landing
+layout: 03_landing
 title: DSB
 permalink: /index
 ---
