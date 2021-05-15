@@ -1,34 +1,30 @@
 ---
-layout: 01_landing
-title: Beautiful Dataframes
+layout: 03_landing
+title: DSB
 permalink: /index
 ---
 
 # Beautiful Dataframes
 
-Dataframes are great! 
+Welcome to my Data Science for Business (DSB) web site.
 
-You should also make them beautiful, because beauty leads to so much more insights. 
+Find an introduction to this topic and to my passion on [Data Science for Business]()
 
-For free, you find on this site plenty of knowledge for immediate benefit to your dataframes, which is otherwise hard to find in such an abundance.
+I also make the point that at eventually a skill set must be mastered to actually **do** data science.
 
-New information is constantly added to this site. 
+## Pandas
 
-## Why should you be using dataframes?
-
-- Using dataframes, you can reach goals that might have looked out of scope for you so far.
-- Dataframes can help you to look at familiar problems from new angles, and to come to surprising insights.
-- Good skills in Dataframes make you more flexible when switching between most popular languages in data science: Python, R, Julia, … . 
-
-## A dataframe as an entity
-
-Admittedly, a dataframe can be seen as a mere set of tuples. This is a very technical view, though.
-We consider a dataframe here as an entity.
-
-An entity that can be beautiful or ugly.
+The central object of data science are tables. These tables can be created and operated on using the library Pandas which can be installed to Python.
+Using Pandas, you can create and maninpulated tables, you can work on its columns and rows, you save and retrieve these tables, merge and split them, and you make aggregations on their values.
+Get here to the detals of [Pandas](pandas).
 
 
+## Seaborn
 
+For visualization
+
+
+## Models
 
 ## What is beauty?
 
